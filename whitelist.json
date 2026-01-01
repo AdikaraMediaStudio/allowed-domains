@@ -1,0 +1,77 @@
+{
+  "whitelist": [
+    "google.com",
+    "google.co.id",
+    "googleusercontent.com",
+    "gstatic.com",
+    "youtube.com",
+    "youtu.be",
+    "ytimg.com",
+
+    "facebook.com",
+    "fb.com",
+    "fbcdn.net",
+    "messenger.com",
+    "instagram.com",
+    "cdninstagram.com",
+
+    "twitter.com",
+    "x.com",
+    "twimg.com",
+
+    "whatsapp.com",
+    "whatsapp.net",
+
+    "tiktok.com",
+    "tiktokcdn.com",
+
+    "linkedin.com",
+    "licdn.com",
+
+    "bing.com",
+    "bing.net",
+    "duckduckgo.com",
+    "yahoo.com",
+
+    "amazon.com",
+    "amazonaws.com",
+    "cloudfront.net",
+
+    "microsoft.com",
+    "live.com",
+    "office.com",
+    "outlook.com",
+    "azure.com",
+
+    "apple.com",
+    "icloud.com",
+
+    "github.com",
+    "githubusercontent.com",
+    "gitlab.com",
+    "bitbucket.org",
+
+    "wikipedia.org",
+    "wikimedia.org",
+
+    "netflix.com",
+    "nflxvideo.net",
+    "spotify.com",
+    "scdn.co",
+
+    "telegram.org",
+    "telegram.me",
+
+    "reddit.com",
+    "redd.it",
+
+    "paypal.com",
+    "stripe.com",
+
+    "cloudflare.com",
+    "cdnjs.cloudflare.com",
+
+    "openai.com",
+    "chatgpt.com"
+  ]
+}
